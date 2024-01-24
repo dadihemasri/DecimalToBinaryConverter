@@ -25,7 +25,7 @@ Explore the live project [here](https://dadihemasri.github.io/DecimalToBinaryCon
 <!-- Add Screenshots -->
 
 <img width="624" alt="image" src="https://github.com/dadihemasri/DecimalToBinaryConverter/assets/85781102/623c00aa-4088-478d-891f-c3ffba2d9825">
-
+<br><br>
 <img width="601" alt="image" src="https://github.com/dadihemasri/DecimalToBinaryConverter/assets/85781102/ff8a49e3-ba81-4024-9985-1310dc4a4b25">
 
 
